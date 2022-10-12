@@ -1,0 +1,6 @@
+{
+  "images": [
+      {"name":"image1.jpg","size":"500mb"},
+      {"name":"image2.jpg","size":"980kb"}
+      ]
+}
